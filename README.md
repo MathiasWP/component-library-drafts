@@ -18,12 +18,13 @@ thoughts & ideas that i may use if i ever get the crazy idea that i want to make
 - Fast & clean animations (remember @prefers-reduced-motion)
 - Figma
 
-### color palette
+### Color palette
 Multiple color palettes could be nice, should be really easy to change if i've designed the system correctly.
+
 Should use https://tailwindcss.com/docs/customizing-colors#default-color-palette as default color palette.
 Think i want to use Tailwind for developing, but it should not be a dependency for using the library.
 
-### icons?
+### Icons
 Don't really wanna be the one to tell others what icons they should use. 
 Using https://github.com/antfu/unplugin-icons, or maybe just designing the API
 so that icons should come from somewhere else, sounds appealing.
