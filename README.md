@@ -1,6 +1,3 @@
-# component-library-drafts
-thoughts & ideas that i may use if i ever get the crazy idea that i want to make an open source (svelte) component library
-
 ## Inspiration:
 - https://www.radix-ui.com/
 - https://jetbrains.github.io/ring-ui/master/index.html
