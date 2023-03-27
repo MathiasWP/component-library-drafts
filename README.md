@@ -10,7 +10,7 @@
 - Configurable color system
 - Interactive docs
 - SSR support
-- Plug & play (other configs needed)
+- Plug & play (no configs needed)
 - TypeScript support
 - Fast & clean animations (remember @prefers-reduced-motion)
 - Figma
