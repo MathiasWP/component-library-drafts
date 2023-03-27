@@ -1,7 +1,9 @@
 ## Inspiration:
 - https://www.radix-ui.com/
-- https://jetbrains.github.io/ring-ui/master/index.html
+- https://evergreen.segment.com/
 - https://element-plus.org/
+- https://www.hyperui.dev/
+- https://jetbrains.github.io/ring-ui/master/index.html
 
 ## Ideas & thoughts:
 
