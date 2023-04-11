@@ -1,4 +1,5 @@
 ## Inspiration:
+- https://github.com/shadcn/ui
 - https://www.radix-ui.com/
 - https://evergreen.segment.com/
 - https://element-plus.org/
