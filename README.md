@@ -5,6 +5,7 @@
 - https://element-plus.org/
 - https://www.hyperui.dev/
 - https://jetbrains.github.io/ring-ui/master/index.html
+- https://github.com/N00nDay/stwui
 
 ## Ideas & thoughts:
 
