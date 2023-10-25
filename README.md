@@ -6,6 +6,8 @@
 - https://www.hyperui.dev/
 - https://jetbrains.github.io/ring-ui/master/index.html
 - https://github.com/N00nDay/stwui
+- https://www.melt-ui.com/
+- https://captaincodeman.github.io/svelte-headlessui
 
 ## Ideas & thoughts:
 
