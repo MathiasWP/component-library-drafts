@@ -8,6 +8,7 @@
 - https://github.com/N00nDay/stwui
 - https://www.melt-ui.com/
 - https://captaincodeman.github.io/svelte-headlessui
+- https://github.com/techniq/svelte-ux
 
 ## Ideas & thoughts:
 
